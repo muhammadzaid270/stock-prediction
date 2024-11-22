@@ -39,7 +39,7 @@ The application will show:
 To run the application, install all the dependencies and simply execute the Python script:
 
 ```bash
-python stock_price_predictor.py
+python main.py
 ```
 ## License
 
