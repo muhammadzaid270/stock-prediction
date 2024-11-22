@@ -2,6 +2,8 @@
 
 This application predicts the next day's stock price using historical data and a Random Forest model. It allows users to input stock ticker symbols, current closing prices, and volumes to predict the next day's price.
 
+![Stock Price Predictor](stock-prediction/screenshot.png)
+
 ## Features
 - **Fetch Historical Data**: The app fetches historical stock data using the Yahoo Finance API.
 - **Model Training**: A Random Forest Regressor model is used to predict the next day's stock price based on the input data.
